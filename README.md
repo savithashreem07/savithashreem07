@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**savithashreem07/savithashreem07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently pursuing my Master's degree in Computer Science at San Francisco Bay University.
+- 🌱 I have an experience of around 3.5 years as a Frontend Developer where I worked in Angular and React.
+- 🌱 I’m familiar in:
+- **Languages:** HTML5, CSS3, JavaScript (ES5/ES6), TypeScript, Python
+  **Frontend Frameworks/Libraries:** Angular, React, Redux, RxJS
+  **CSS Frameworks:** Bootstrap, Angular Material, Prime NG
+  **Backend Frameworks:** Express.js, Node.js
+  **Databases:** MongoDB, MySQL
+  **Version Control:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am passionate about web development, coding, and learning new technologies, and I always strive to improve my competencies and stay updated with the latest trends and best practices in the field.
+- 📫 How to reach me: https://www.linkedin.com/in/savithashreem/ 
+
